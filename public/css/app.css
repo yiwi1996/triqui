@@ -1,0 +1,79 @@
+.header{
+    height: 130px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#cuerpo{
+    height: 310px !important;
+    margin-top: -0.25rem !important;
+    width: 100%;
+    height: 100%; 
+}
+
+h1{
+    color: #fff;
+}
+
+.juego{
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+}
+.user1{
+    margin-left: 50px;
+    width: 20%;
+    height: 100%;
+    color: #000;
+    border-radius: 5%;
+}
+
+.user2{
+    margin-top: 70px;
+}
+#imag{
+    height: 100%;
+    width: 100%;
+}
+.tabla{
+    height: 100%; 
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    margin-left: 25px;
+}
+
+td{
+    border-collapse: collapse;
+    border: black 1px solid;
+    width: 50px;
+    height: 50px;
+}
+button{
+    width: 100%;
+    height: 100%; 
+    background-color: rgb(218, 50, 50);
+    color: rgb(218, 50, 50);
+}
+a{
+    width: 100%;
+    height: 100%; 
+    display: none; 
+}
+
+i{
+    margin-left: 25%;
+}
+
+#jugador_1{
+    display: none;
+}
+#jugador_2 {
+    display: none;
+}
+
+#reiniciar{
+    display: none;
+}
+
